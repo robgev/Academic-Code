@@ -9,6 +9,7 @@ for i = seq
     grad1 = @(x) 2 * x(1) * exp(x(1)^2 + x(2)^2) + (1 / i) * (1 / (g(x) ^ 2));
     grad2 = @(x) 2 * x(2) * exp(x(1)^2 + x(2)^2) + (1 / i) * (1 / (g(x) ^ 2));
     min = steepest_descent(q(i), grad1, grad2, x0, eps);
+    min
 end
 
 function result = GSS(f, a, b, gamma, eps)
