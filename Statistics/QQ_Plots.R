@@ -1,0 +1,5 @@
+pnorm(3) - pnorm(-3)
+x <- rnorm(200)
+qqnorm(x)
+qqline(x)
+diff(qnorm(c(0.9, 0.95, 0.99, 0.999)))

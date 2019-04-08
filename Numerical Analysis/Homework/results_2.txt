@@ -1,0 +1,36 @@
+The approx. no: n = 1
+Newton's Method Approx.: x1 = -0.329566
+Newton's Method Value.: f(x1) = 0.611470
+Secants Method Approx.: x1 = -0.329566
+Secants Method Value.: f(x1) = 0.611470
+
+The approx. no: n = 2
+Newton's Method Approx.: x2 = 0.060769
+Newton's Method Value.: f(x2) = -0.121239
+Secants Method Approx.: x2 = 0.021397
+Secants Method Value.: f(x2) = -0.042781
+
+The approx. no: n = 3
+Newton's Method Approx.: x3 = -0.000301
+Newton's Method Value.: f(x3) = 0.000603
+Secants Method Approx.: x3 = -0.001552
+Secants Method Value.: f(x3) = 0.003104
+
+The approx. no: n = 4
+Newton's Method Approx.: x4 = 0.000000
+Newton's Method Value.: f(x4) = -0.000000
+Secants Method Approx.: x4 = 0.000000
+Secants Method Value.: f(x4) = -0.000001
+
+The approx. no: n = 5
+Newton's Method Approx.: x5 = 0.000000
+Newton's Method Value.: f(x5) = 0.000000
+Secants Method Approx.: x5 = -0.000000
+Secants Method Value.: f(x5) = 0.000000
+
+The approx. no: n = 6
+Newton's Method Approx.: x6 = 0.000000
+Newton's Method Value.: f(x6) = 0.000000
+Secants Method Approx.: x6 = 0.000000
+Secants Method Value.: f(x6) = -0.000000
+

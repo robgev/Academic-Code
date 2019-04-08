@@ -1,0 +1,7 @@
+x <- rpois(20, 3)
+var(x)
+sd(x)
+x <- c(20)
+var(x)
+sum((x - mean(x)) ^ 2) / length(x)
+quantile(x, 0.3)
